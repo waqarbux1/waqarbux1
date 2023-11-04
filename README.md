@@ -22,7 +22,8 @@ Here are few images of the design.
 
 Learnt,Built and Sold a 3D Printer
 
-![20180523_224018](https://github.com/waqarbux1/waqarbux1/assets/149581611/4de02ae4-98a4-4c2d-8950-02d31cf69f04)
+![20180523_224018](https://github.com/waqarbux1/waqarbux1/assets/149581611/414664a4-033a-473b-8cee-972df6a83a43)
+
 
 
 
@@ -30,12 +31,16 @@ My Printer:
 
 ![IMG_20190204_114422-01](https://github.com/waqarbux1/waqarbux1/assets/149581611/b78f50fa-d180-4b2c-8410-9517a45ee45e)
 ![IMG_20190204_114251-01](https://github.com/waqarbux1/waqarbux1/assets/149581611/80fdf4b3-0369-44a3-b210-b9bf45327d3e)
-![Document from Waqar Bux](https://github.com/waqarbux1/waqarbux1/assets/149581611/a9abdb5b-a24b-4130-96cc-f6bc8c828cf1)
+![Document from Waqar Bux](https://github.com/waqarbux1/waqarbux1/assets/149581611/c8fe3a86-d008-4699-924c-c9f01cf3b3ba)
+
 
 
 3)Internship at Lema Labs (Incubated by IIT Madras Incubation Cell, IIT Madras Research Park)
 
 [Waqar Bux Internship Letter.pdf](https://github.com/waqarbux1/waqarbux1/files/13256380/Waqar.Bux.Internship.Letter.pdf)
+
+![Internship lema labs](https://github.com/waqarbux1/waqarbux1/assets/149581611/688316f5-0716-4ff3-9acb-7806480c4776)
+
 
 
 4)Face Sheild during Covid
