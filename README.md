@@ -10,12 +10,10 @@ Video link: https://drive.google.com/file/d/1dABIp9G16xHsHO2wQUubLUHRJICkpz5R/vi
 
 Here are few images of the design.
 
-
-
-
-
-
-
+![3](https://github.com/waqarbux1/waqarbux1/assets/149581611/6b884b38-57ef-4f5a-aab2-1775f87d2aca)
+![1](https://github.com/waqarbux1/waqarbux1/assets/149581611/c363352b-1dc1-4c0f-a135-9484bd3a9b91)
+![4](https://github.com/waqarbux1/waqarbux1/assets/149581611/f29c4a43-30ea-42f3-ba40-eb4b6d522554)
+![2](https://github.com/waqarbux1/waqarbux1/assets/149581611/11efa6e7-3167-4b82-8225-349a3623c80f)
 
 
 2)Built 3d printer
