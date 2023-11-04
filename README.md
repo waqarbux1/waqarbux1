@@ -35,11 +35,13 @@ My Printer:
 
 
 
+
 3)Internship at Lema Labs (Incubated by IIT Madras Incubation Cell, IIT Madras Research Park)
 
 [Waqar Bux Internship Letter.pdf](https://github.com/waqarbux1/waqarbux1/files/13256380/Waqar.Bux.Internship.Letter.pdf)
 
 ![Internship lema labs](https://github.com/waqarbux1/waqarbux1/assets/149581611/688316f5-0716-4ff3-9acb-7806480c4776)
+
 
 
 
@@ -54,7 +56,7 @@ Built,Distributed and sold Face Sheilds in Covid
 
 5)Temperature tracking device during Covid
 
-Designed and 3D Printed an enclosure for a device which was made for temprature tracking and attendence logging.
+Designed and 3D Printed an enclosure for a device which was made for temperature tracking and attendence logging.
 
 Video link: (https://drive.google.com/file/d/1qlnvl7InGqx1tsARMvdY7HcBYsqoeSwv/view?usp=sharing)
 
@@ -62,6 +64,7 @@ Video link: (https://drive.google.com/file/d/1qlnvl7InGqx1tsARMvdY7HcBYsqoeSwv/v
 ![2023_10_28_07_06_05~2](https://github.com/waqarbux1/waqarbux1/assets/149581611/9b86c38a-8d59-4d84-9d58-274bdae8a625)
 ![2023_10_28_07_05_39~2](https://github.com/waqarbux1/waqarbux1/assets/149581611/62ed3930-ec9d-4d5d-a9a6-4331499c10ae)
 ![2023_10_28_07_06_00~2](https://github.com/waqarbux1/waqarbux1/assets/149581611/909bd5db-2440-420b-b4ff-0d7ea43d2946)
+
 
 
 6)Feces Testing Machine using Data Sets and Machine learning
@@ -77,6 +80,7 @@ Built the structure of machine, designed several parts of the machine, 3d printe
 ![IMG_20210321_231148](https://github.com/waqarbux1/waqarbux1/assets/149581611/9289553b-e5ea-4e9e-8381-02705e61b0d9)
 
 
+
 7)Advanced 3D Printed Centrifuge Tube
 
 Designed and 3d printed a centrifuge tube with additional features such as an inbuilt filter and 
@@ -85,6 +89,7 @@ the separation of the bottom part of the tube from the rest of the body.
 Video link: (https://drive.google.com/file/d/17snh6Q43rP9qM5qry-4sydKqjzHd-yTR/view?usp=sharing)
 
 ![IMG_20230626_143215](https://github.com/waqarbux1/waqarbux1/assets/149581611/8b4dba76-b430-43e1-bed9-4192b7494974)
+
 
 
 8)Designed and 3dprinted Innovative bow ties for a Business
@@ -107,56 +112,6 @@ Achievements
 
 ![2023_10_28_07_07_31~2](https://github.com/waqarbux1/waqarbux1/assets/149581611/76a461d1-2cbe-4316-8dae-0a2a22cbf50d)
 ![2023_10_28_07_03_51~2](https://github.com/waqarbux1/waqarbux1/assets/149581611/426b87e2-7000-446c-bba4-2d4788db601b)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
