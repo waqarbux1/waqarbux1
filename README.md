@@ -55,6 +55,7 @@ Built,Distributed and sold Face Sheilds in Covid
 5)Temperature tracking device during Covid
 
 Designed and 3D Printed an enclosure for a device which was made for temprature tracking and attendence logging.
+
 Video link: (https://drive.google.com/file/d/1qlnvl7InGqx1tsARMvdY7HcBYsqoeSwv/view?usp=sharing)
 
 ![2023_10_28_07_05_54~2](https://github.com/waqarbux1/waqarbux1/assets/149581611/aa53ec2a-31a6-4cc9-b29c-887efdce8607)
