@@ -6,7 +6,7 @@ Here are the details of all of my Major Projects (including images and video lin
 
 This was my biggest design project till date,i made this entire project in Autodesk Fusion 360
 
-Video link: https://drive.google.com/file/d/1dABIp9G16xHsHO2wQUubLUHRJICkpz5R/view?usp=sharing
+Video link: (https://drive.google.com/file/d/1dABIp9G16xHsHO2wQUubLUHRJICkpz5R/view?usp=drive_link)
 
 Here are few images of the design.
 
@@ -57,7 +57,7 @@ Built,Distributed and sold Face Sheilds in Covid
 
 Designed and 3D Printed an enclosure for a device which was made for temperature tracking and attendence logging.
 
-Video link: (https://drive.google.com/file/d/1qlnvl7InGqx1tsARMvdY7HcBYsqoeSwv/view?usp=sharing)
+Video link: https://drive.google.com/file/d/1qlnvl7InGqx1tsARMvdY7HcBYsqoeSwv/view?usp=drive_link
 
 ![2023_10_28_07_05_54~2](https://github.com/waqarbux1/waqarbux1/assets/149581611/aa53ec2a-31a6-4cc9-b29c-887efdce8607)
 ![2023_10_28_07_06_05~2](https://github.com/waqarbux1/waqarbux1/assets/149581611/9b86c38a-8d59-4d84-9d58-274bdae8a625)
@@ -85,7 +85,7 @@ Built the structure of machine, designed several parts of the machine, 3d printe
 Designed and 3d printed a centrifuge tube with additional features such as an inbuilt filter and 
 the separation of the bottom part of the tube from the rest of the body.
 
-Video link: (https://drive.google.com/file/d/17snh6Q43rP9qM5qry-4sydKqjzHd-yTR/view?usp=sharing)
+Video link: https://drive.google.com/file/d/17snh6Q43rP9qM5qry-4sydKqjzHd-yTR/view?usp=drive_link
 
 ![IMG_20230626_143215](https://github.com/waqarbux1/waqarbux1/assets/149581611/8b4dba76-b430-43e1-bed9-4192b7494974)
 
